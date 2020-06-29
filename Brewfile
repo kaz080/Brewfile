@@ -1,51 +1,40 @@
-
 # tap repositories and their packages
 
 tap homebrew/core
-brew anyenv
-brew carthage
-brew direnv
-brew gdbm
-brew gettext
-brew git
-brew jq
+tap homebrew/cask
+tap homebrew/bundle
 brew mas
-brew oniguruma
-brew openssl@1.1
-brew pcre2
-brew python
-brew readline
-brew sqlite
+brew rcmdnk/file/brew-file
+
+brew git
+brew zsh-git-prompt
+brew zsh-completion
+brew jq
+brew tree
+brew direnv
+brew anyenv
+
 brew swiftgen
 brew swiftlint
-brew tree
+brew carthage
 brew xcodegen
-brew xz
-brew zsh-completions
-brew zsh-git-prompt
+brew mono0926/license-plist/license-plist
 
-tap homebrew/bundle
-
-tap homebrew/cask
+# https://formulae.brew.sh/cask/
 cask dropbox
-cask google-chrome
-cask handbrake
-cask lyrics-master
 cask miro
 cask notion
+cask vlc
+cask visual-studio-code
+cask google-chrome
+cask zeplin
+cask zoomus
 cask obs
 cask ripit
-cask visual-studio-code
-cask vlc
-cask zeplin
-cask zoom
-cask zoomus
-
-tap mono0926/license-plist
-brew license-plist
-
-tap rcmdnk/file
-brew brew-file
+cask handbrake
+cask lyrics-master
+#cask deepl  # tentative: certificate has expired
+#cask sketch  # https://www.sketch.com/updates/#version-52.6
 
 # App Store applications
 appstore 640199958 Developer (8.2.3)
