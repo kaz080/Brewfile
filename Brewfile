@@ -27,6 +27,7 @@ cask notion
 cask vlc
 cask visual-studio-code
 cask google-chrome
+cask figma
 cask zeplin
 cask zoomus
 cask obs
