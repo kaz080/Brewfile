@@ -27,6 +27,19 @@ brew zsh-git-prompt
 tap homebrew/bundle
 
 tap homebrew/cask
+cask dropbox
+cask google-chrome
+cask handbrake
+cask lyrics-master
+cask miro
+cask notion
+cask obs
+cask ripit
+cask visual-studio-code
+cask vlc
+cask zeplin
+cask zoom
+cask zoomus
 
 tap mono0926/license-plist
 brew license-plist
