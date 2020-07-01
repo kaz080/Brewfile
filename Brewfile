@@ -30,6 +30,7 @@ cask visual-studio-code
 cask google-chrome
 cask figma
 cask zeplin
+cask discord
 cask zoomus
 cask obs
 cask ripit
