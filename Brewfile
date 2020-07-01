@@ -19,6 +19,7 @@ brew swiftlint
 brew carthage
 brew xcodegen
 brew mono0926/license-plist/license-plist
+brew diff-pdf
 
 # https://formulae.brew.sh/cask/
 cask dropbox
@@ -34,6 +35,7 @@ cask obs
 cask ripit
 cask handbrake
 cask lyrics-master
+cask xquartz  # for diff-pdf
 #cask deepl  # tentative: certificate has expired
 #cask sketch  # https://www.sketch.com/updates/#version-52.6
 
