@@ -1,4 +1,6 @@
 # tap repositories and their packages
+# brew file install
+# brew file push
 
 tap homebrew/core
 tap homebrew/cask
@@ -13,13 +15,15 @@ brew jq
 brew tree
 brew direnv
 brew anyenv
+brew github/gh/gh
 
 brew swiftgen
 brew swiftlint
 brew carthage
 brew xcodegen
 brew mono0926/license-plist/license-plist
-brew diff-pdf
+brew imagemagick
+brew ffmpeg
 
 # https://formulae.brew.sh/cask/
 cask dropbox
@@ -33,6 +37,7 @@ cask zeplin
 cask discord
 cask zoomus
 cask obs
+cask obs-virtualcam
 cask ripit
 cask handbrake
 cask lyrics-master
