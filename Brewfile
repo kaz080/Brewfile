@@ -38,10 +38,10 @@ cask discord
 cask zoomus
 cask obs
 cask obs-virtualcam
+cask sequel-pro
 cask ripit
 cask handbrake
 cask lyrics-master
-cask xquartz  # for diff-pdf
 #cask deepl  # tentative: certificate has expired
 #cask sketch  # https://www.sketch.com/updates/#version-52.6
 
