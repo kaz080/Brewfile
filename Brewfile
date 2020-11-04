@@ -15,13 +15,12 @@ brew jq
 brew tree
 brew direnv
 brew anyenv
-brew github/gh/gh
+brew gh
 
 brew swiftgen
 brew swiftlint
 brew carthage
 brew xcodegen
-brew mono0926/license-plist/license-plist
 brew imagemagick
 brew ffmpeg
 
@@ -36,12 +35,14 @@ cask figma
 cask zeplin
 cask discord
 cask zoomus
+cask charles
 cask obs
 cask obs-virtualcam
 cask sequel-pro
 cask ripit
 cask handbrake
 cask lyrics-master
+cask blackhole
 #cask deepl  # tentative: certificate has expired
 #cask sketch  # https://www.sketch.com/updates/#version-52.6
 
